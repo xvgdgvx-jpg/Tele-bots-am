@@ -1,3 +1,12 @@
-name = "tele-bots-am"
+name = "tele-bots-ampro"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "telegram-bot-db"
+database_id = ""d1_databases": [{
+    "binding": "DB",
+    "database_name": "telegram-bot-db",
+    "database_id": "af58f9bf-6fb8-4fc4-8d9e-db5bc6641335"
+ }]"
